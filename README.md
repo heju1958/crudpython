@@ -10,7 +10,7 @@
 
 ``Documentação (swagger):``
 ```
-https://kenzienotes.onrender.com/docs/swagger/
+https://api-crud-employees.onrender.com/docs/swagger/
 ```
 
 ``Deploy:``
@@ -18,7 +18,7 @@ https://kenzienotes.onrender.com/docs/swagger/
 Sua url base é 
 
 ```
-https://kenzienotes.onrender.com/
+https://api-crud-employees.onrender.com
 ```
 
 ## Endpoints:
