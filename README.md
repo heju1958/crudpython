@@ -1,8 +1,7 @@
 <h1 align="center">
 	<img src='https://www.svgrepo.com/show/142693/notes.svg' alt='Icone de anotações' width='30px' height='30px'/> CRUD Python Employees
 
-## Objetivo e tecnologias utilizadas:
-> Aplicação com o objetivo de auxiliar os usuários a criarem anotações online.
+## Tecnologias utilizadas:
 
 > Foi desenvolvida com as tecnologias Python, Django, Django Rest Framework e o banco de dados PostgreSQL.
 
