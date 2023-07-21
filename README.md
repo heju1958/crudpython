@@ -9,7 +9,7 @@
 
 ``Documentação (swagger):``
 ```
-https://api-crud-employees.onrender.com/docs/swagger/
+https://api-crud-python-2023.onrender.com/docs/swagger/
 ```
 
 ``Deploy:``
@@ -17,7 +17,7 @@ https://api-crud-employees.onrender.com/docs/swagger/
 Sua url base é 
 
 ```
-https://api-crud-employees.onrender.com
+https://api-crud-python-2023.onrender.com
 ```
 
 ## Endpoints:
